@@ -1,5 +1,15 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://github.com/CandyDaniele/CandyDaniele/blob/master/profile.png?raw=true" width="350" title="hover text">
+</p>
 
+## Olá, seja bem vindo(a) ao meu github
+
+💻 Technologies
+- Node.js
+- React.js
+- JavaScript
+- HTML
+- CSS
 <!--
 **CandyDaniele/CandyDaniele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
