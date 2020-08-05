@@ -13,11 +13,12 @@
 - JavaScript
 - HTML
 - CSS
-
+<p align="center">
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CandyDaniele&show_icons=true&theme=tokyonight)](https://github.com/CandyDaniele/github-readme-stats)
-
+</p>
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CandyDaniele&layout=compact)](https://github.com/CandyDaniele/github-readme-stats)
-
+</p>
 
 
 <!--
