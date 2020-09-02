@@ -14,15 +14,10 @@
 - HTML
 - CSS
 
-
-<center>
-<table>
-  <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CandyDaniele&hide=html&layout=compact&theme=radical" /></td>
-      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=CandyDaniele&theme=radical&show_icons=true" /></td>
-  </tr>  
-</table>
-</center>
+<p align="center">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CandyDaniele&hide=html&layout=compact&theme=radical" />
+  <img width="434px" src="https://github-readme-stats.vercel.app/api?username=CandyDaniele&theme=radical&show_icons=true" />
+</p>
 
 <!--
 **CandyDaniele/CandyDaniele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
