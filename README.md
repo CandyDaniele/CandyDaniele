@@ -14,11 +14,15 @@
 - HTML
 - CSS
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CandyDaniele&show_icons=true&theme=tokyonight)](https://github.com/CandyDaniele/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CandyDaniele&layout=compact)](https://github.com/CandyDaniele/github-readme-stats)
-
-
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CandyDaniele&hide=html&layout=compact&theme=radical" /></td>
+      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=CandyDaniele&theme=radical&show_icons=true" /></td>
+  </tr>  
+</table>
+</center>
 
 <!--
 **CandyDaniele/CandyDaniele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
